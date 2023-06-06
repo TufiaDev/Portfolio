@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    background-color: #E6E8FF;
+}
+
+header h1{
+    text-align: center;
+    font-size: 56px;
+    color:#001fff;
+    border-bottom: 2px solid;
+}
+
+img{
+    max-width:300px;
+    max-height:250px;
+}
+
+p{
+    font-size: 32px;
+    color:rgb(42, 40, 63);
+}
+
+.link_voltar{
+    font-size: 22px;
+    color:rgb(42, 40, 63);
+    text-align: left;
+    margin-left: 30px;
+}
+
+figure{
+    text-align: center;
+}
+
+.gradiente{
+    margin-left: 45px;
+    background-image: linear-gradient(#001fff, #8406d6); 
+    background-clip: text;
+    font-weight: bold;
+    text-transform: uppercase;
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+    font-family: Helvetica;
+}
